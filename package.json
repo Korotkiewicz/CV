@@ -1,0 +1,24 @@
+{
+  "name": "michal.korotkiewicz_cv",
+  "version": "0.8.0",
+  "description": "Michał Korotkiewicz's CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Korotkiewicz/cv.git"
+  },
+  "keywords": [
+    "Korotkiewicz",
+    "bolebor",
+    "cv"
+  ],
+  "author": "Michał Korotkiewicz (Bolebor)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Korotkiewicz/cv/issues"
+  },
+  "homepage": "https://github.com/Korotkiewicz/cv#readme"
+}
